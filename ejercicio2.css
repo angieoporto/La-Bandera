@@ -1,0 +1,32 @@
+.uno{
+	height: 100px;
+	width: 200px;
+background:yellow;
+font-family: serif;
+padding: 1px;
+margin: 5px 5px;
+box-sizing:border-box;
+
+}
+.dos{
+height: 100px;
+	width: 200px;
+background:red;
+font-family: serif;
+padding: 1px;
+margin: 5px 5px;
+box-sizing:border-box;
+
+
+}
+.tres{
+	height: 100px;
+	width: 200px;
+background:yellow;
+font-family: sans-serif;
+padding: 1px;
+margin: 5px 5px;
+box-sizing:border-box;
+
+}
+

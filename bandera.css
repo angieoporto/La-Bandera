@@ -1,0 +1,18 @@
+.uno{
+	height: 100px;
+	width: 1000px;
+background:yellow;
+font-family: serif;
+}
+.dos{
+height: 100px;
+	width: 1000px;
+background:red;
+font-family: serif;
+}
+.tres{
+	height: 100px;
+	width: 1000px;
+background:yellow;
+font-family: sans-serif;
+}
